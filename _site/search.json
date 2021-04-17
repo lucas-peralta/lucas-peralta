@@ -1,0 +1,21 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-04-17T11:20:02-03:00"
+    },
+    {
+      "path": "index.html",
+      "title": "scrap_ipc",
+      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-04-17T11:53:49-03:00"
+    }
+  ],
+  "collections": []
+}
