@@ -2,7 +2,7 @@ name: "lucas-peralta.github.io"
 title: "scrap_ipc"
 description: |
   scrap_ipc
-output_dir: "docs"
+output_dir: "."
 navbar:
   right:
     - text: "Home"
