@@ -1,5 +1,5 @@
 name: "lucas-peralta.github.io"
-title: "Indice de precios web de alimentos"
+title: "IPAWEB"
 description: |
   scrap_ipc
 output_dir: "."
@@ -7,8 +7,10 @@ navbar:
   logo:
     image: "diet.png"
   right:
-    - text: "Home"
+    - text: "Inicio"
       href: index.html
-    - text: "About"
+    - text: "Sobre mí"
       href: about.html
+    - icon: fab fa-github
+      href: https://github.com/lucas-peralta
 output: distill::distill_article

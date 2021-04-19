@@ -1,12 +1,17 @@
 ---
-title: "Evolución de precios web de alimentos y bebidas"
+title: "Indice de Precios de Alimentos"
 description: |
-  asf
+  Este es un proyecto en el que me propuse medir la evolución de precios de alimentos en páginas web de los principales supermercados del país. Todo el proceso desde el web scraping para obtener los datos, el cálculo y la publicación las realizo en el lenguaje de programación R. Para obtener las ponderaciones utilizé la Encuesta Nacional de Gastos de los Hogares (ENGHo) 2017-2018. Los resultados presentados no contienen ninguna información sobre el negocio informante, manteniendo esta información en reserva.
 site: distill::distill_website
 ---
 
 
-# IV semana de Agosto de 2021
+# Resultados acumulados a la segunda semana de Abril de 2021
+
+```{r, echo=FALSE}
+htmltools::includeHTML("../../06.Graficos_tablas/cuadro1.html")
+
+```
 
 
 
