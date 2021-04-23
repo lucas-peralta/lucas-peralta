@@ -9,8 +9,10 @@ navbar:
   right:
     - text: "Inicio"
       href: index.html
-    - text: "Descargar Informe"
-      href: https://aa6c778c-2feb-4a87-bfde-5944bd2a7912.filesusr.com/ugd/58093c_c4672cd18749438ba9d51a998410e49f.pdf
+    - text: "Descargar Informes"
+      menu:
+        - text: "Abril 2021"
+          href: "reportes/Informe_scrap_abril21.pdf"
     - text: "Sobre mí"
       href: about.html
 output: distill::distill_article
