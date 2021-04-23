@@ -1,18 +1,12 @@
-name: "lucas"
-title: "IPAWEB"
+name: "asd"
+title: "My Website"
 description: |
-  scrap_ipc
-output_dir: "."
+  My Website
+output_dir: "_site"
 navbar:
-  logo:
-    image: "diet.png"
   right:
-    - text: "Inicio"
+    - text: "Home"
       href: index.html
-    - text: "Descargar Informes"
-      menu:
-        - text: "Abril 2021"
-          href: "reportes/Informe_scrap_abril21.pdf"
-    - text: "Sobre mí"
+    - text: "About"
       href: about.html
 output: distill::distill_article
