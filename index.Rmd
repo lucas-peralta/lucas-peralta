@@ -9,7 +9,7 @@ site: distill::distill_website
 # Resultados acumulados a la tercer semana de Abril de 2021
 
 ```{r, echo=FALSE}
-htmltools::includeHTML("../../06.Graficos_tablas/cuadro1.html")
+#htmltools::includeHTML("../../06.Graficos_tablas/cuadro1.html")
 
 ```
 
