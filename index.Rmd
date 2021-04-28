@@ -10,9 +10,6 @@ site: distill::distill_website
 
 ```{r, echo=FALSE}
 htmltools::includeHTML("../../06.Graficos_tablas/cuadro1.html")
-
 ```
-
-
 
 
