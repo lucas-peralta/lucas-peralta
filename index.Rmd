@@ -8,7 +8,11 @@ site: distill::distill_website
 
 # Resultados acumulados a la cuarta semana de Abril de 2021
 
+El indice de marzo de 2021 esta compuesto por los precios de la última semana del mes ya que en ese momento fue cuando inicie la recolección de datos, debido a esto las variaciones del corriente mes pueden estar subestimadas.
+
 ```{r, echo=FALSE}
 htmltools::includeHTML("../../06.Graficos_tablas/cuadro1.html")
 ```
+
+
 

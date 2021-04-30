@@ -1,0 +1,8 @@
+---
+title: "Indices a nivel subclase"
+---
+
+
+```{r, echo=FALSE}
+htmltools::includeHTML("../../06.Graficos_tablas/grafico.html")
+```

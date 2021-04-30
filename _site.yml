@@ -9,6 +9,8 @@ navbar:
   right:
     - text: "Inicio"
       href: index.html
+    - text: "Series en gráfico"
+      href: graficos.html      
     - text: "Descargar Informes"
       menu:
         - text: "Abril 2021"
