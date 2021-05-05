@@ -9,6 +9,8 @@ navbar:
   right:
     - text: "Inicio"
       href: index.html
+    - text: "Tablero interactivo"
+      href: "https://lucas-peralta.shinyapps.io/IPAWEB/_w_b4d03d5c/"
     - text: "Descargar Informes"
       menu:
         - text: "Abril 2021"
