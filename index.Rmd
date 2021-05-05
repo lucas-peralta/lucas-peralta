@@ -1,14 +1,14 @@
 ---
 title: "Indice de Precios de Alimentos"
 description: |
-  Este es un proyecto en el que me propuse medir la evolución de precios de alimentos en páginas web de los principales supermercados del país. Todo el proceso desde el web scraping para obtener los datos, el cálculo y la publicación las realizo en el lenguaje de programación R. Para obtener las ponderaciones utilizé la Encuesta Nacional de Gastos de los Hogares (ENGHo) 2017-2018. Los resultados presentados no contienen ninguna información sobre el negocio informante, manteniendo esta información en reserva.
+  Este es un proyecto en el que me propuse medir la evolución de precios de alimentos en páginas web de los principales supermercados del país. Todo el proceso desde el web scraping para obtener los datos, el cálculo y la publicación las realizo en el lenguaje de programación R. Para obtener las ponderaciones utilicé la Encuesta Nacional de Gastos de los Hogares (ENGHo) 2017-2018. Los resultados presentados no contienen ninguna información sobre el negocio informante, manteniendo esta información en reserva.
 site: distill::distill_website
 ---
 
 
 # Resultados acumulados a la cuarta semana de Abril de 2021
 
-El indice de marzo de 2021 esta compuesto por los precios de la última semana del mes ya que en ese momento fue cuando inicie la recolección de datos, debido a esto las variaciones del corriente mes pueden estar subestimadas.
+El índice de marzo de 2021 esta compuesto por los precios de la última semana del mes ya que en ese momento fue cuando inicie la recolección de datos, debido a esto las variaciones del corriente mes pueden estar subestimadas.
 
 ```{r, echo=FALSE}
 htmltools::includeHTML("../../06.Graficos_tablas/cuadro1.html")
