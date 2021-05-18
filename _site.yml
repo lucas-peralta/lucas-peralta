@@ -14,7 +14,7 @@ navbar:
     - text: "Descargar Informes"
       menu:
         - text: "Mayo 2021"
-          href: "reportes/Informe_scrap_mayo21.pdf"
+          href: "reportes/Informe_mayo21.pdf"
         - text: "Abril 2021"
           href: "reportes/Informe_scrap_abril21.pdf"
     - text: "Sobre mí"
