@@ -1,7 +1,7 @@
 ---
 title: "Lucas Peralta"
 description: |
-  Soy licenciado en Economía por la Universidad Nacional de La Plata y trabajo en el Ministerio de Economía de la Provincia de Buenos Aires. Me crié en la ciudad de Viedma, fui nadador de la selección Argentina de natación y en mi tiempo libre aún sigo tirando algunas brazadas. Me interesa la extracción, procesamiento y presentación de datos e informes a través de la automatización de rutinas, principalmente en el lenguaje de programación R. Si queres contactarme por cualquier consulta podes hacerlo a lucas.e.peralta@outlook.com.  
+  Soy licenciado en Economía por la Universidad Nacional de La Plata y trabajo en el Ministerio de Economía de la Provincia de Buenos Aires. Me crié en la ciudad de Viedma, fui nadador de la selección Argentina de natación y en mi tiempo libre aún sigo tirando algunas brazadas. Me interesa la extracción, procesamiento y presentación de datos e informes a través de la automatización de rutinas, principalmente en el lenguaje de programación R. Si queres contactarme por cualquier consulta podes hacerlo a lucas.e.peralta@outlook.com.
 
 
 ---
