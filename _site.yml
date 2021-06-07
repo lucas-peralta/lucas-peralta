@@ -13,6 +13,8 @@ navbar:
       href: "https://lucas-peralta.shinyapps.io/IPAWEB/_w_b4d03d5c/"
     - text: "Descargar Informes"
       menu:
+        - text: "Junio 2021"
+          href: "reportes/Informe_junio21.pdf"
         - text: "Mayo 2021"
           href: "reportes/Informe_mayo21.pdf"
         - text: "Abril 2021"
