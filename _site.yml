@@ -9,8 +9,8 @@ navbar:
   right:
     - text: "Inicio"
       href: index.html
-    - text: "Tablero interactivo"
-      href: "https://lucas-peralta.shinyapps.io/app_final/?_ga=2.76948373.1242340594.1623077179-1151984488.1622986695"
+    - text: "Dashboard"
+      href: "https://lucas-peralta.shinyapps.io/IPAWEB/"
     - text: "Descargar Informes"
       menu:
         - text: "Junio 2021"
