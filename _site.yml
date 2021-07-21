@@ -14,7 +14,7 @@ navbar:
     - text: "Descargar Informes"
       menu:
         - text: "Julio 2021"
-          href: "reportes/Informe_julio21.pdf"
+          href: "reportes/Informe_alimweb_julio21.pdf"
         - text: "Junio 2021"
           href: "reportes/Informe_junio21.pdf"
         - text: "Mayo 2021"
