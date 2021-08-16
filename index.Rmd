@@ -6,7 +6,7 @@ site: distill::distill_website
 ---
 
 
-# Resultados acumulados a la 1er semana de Agosto de 2021 
+# Resultados acumulados a la 2da semana de Agosto de 2021 
 
 
 ```{r, echo=FALSE}
